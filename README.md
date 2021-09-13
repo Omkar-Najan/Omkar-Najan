@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ML | Web developement related technologies
 - 📫 How to reach me omkarnajan@gmail.com 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omkar-najan&show_icons=true&theme=radical)
 
 
 <!---
