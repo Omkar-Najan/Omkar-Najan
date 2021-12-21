@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Flask 
 - 💞️ I’m looking to collaborate on ML | Web developement related technologies
 - 📫 How to reach me omkarnajan@gmail.com 
+- Leetcode https://leetcode.com/COderOmi/
 
 
 
